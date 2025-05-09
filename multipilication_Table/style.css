@@ -1,0 +1,12 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+select option {
+    background-color: #C8A8ED; /* Fon rangi */
+                /* Matn rangi */
+    font-size: 14px;           /* Shrift o'lchami */
+    padding-left: 10px;   /* Chekinish (barqaror ishlamasligi mumkin) */
+}

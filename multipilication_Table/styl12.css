@@ -1,0 +1,8 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.butNo1:hover{
+    background-color: #5a62f1;
+}
